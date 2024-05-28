@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juan Gallego</h1>
 <h3 align="center">Full Stack Developer -</h3>
 
-- 🔭 I’m currently working on **Mercadolibre Shops Customize**
+- 🔭 I’m currently working on **Mercadolibre Shops Customizing, in a Digital Agency called Estudio Index**
 
 - 🌱 I’m currently learning **Iot, Electronics, Python, C##**
 
 - 👨‍💻 All of my projects are available at [https://juanpegallego.github.io/Resume/](https://juanpegallego.github.io/Resume/)
 
-- 📝 I regularly write articles on [Twitter](Twitter)
 
-- 💬 Ask me about **javascript, react, node, DOM, futbol ?**
+- 💬 Ask me about **javascript, react, node, DOM, futbol ?, music ?**
 
 - 📫 How to reach me **gallegojpe@gmail.com**
 
