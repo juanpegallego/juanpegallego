@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://juanpegallego.github.io/Resume/](https://juanpegallego.github.io/Resume/)
 
 
-- 💬 Ask me about **javascript, react, node, DOM, futbol ?, music ?**
+- 💬 Ask me about **javascript, react, node, css (love vanilla css) **
 
 - 📫 How to reach me **gallegojpe@gmail.com**
 
