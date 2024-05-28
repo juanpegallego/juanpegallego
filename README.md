@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Gallego</h1>
+<h1 align="center">Hi Juan Gallego here</h1>
 <h3 align="center">Full Stack Developer -</h3>
 
 - 🔭 I’m currently working on **Mercadolibre Shops Customizing, in a Digital Agency called Estudio Index**
